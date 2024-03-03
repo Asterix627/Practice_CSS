@@ -1,0 +1,12 @@
+.hero {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://s3-alpha-sig.figma.com/img/18c9/98f1/9f5712b97686209bd114fa7086413bd4?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NKtnjRHPwn0mZu0KkOujC6M7rvURbiUWSib2dZZK8ihS8VRfakla~T~E-lnXpID6Rd0Yce~XyItfzWEbLG-Fsu6OQbh3sBwY7XiqFitAIaQXCQ~yoGOjYRVj~FSHuRYmO1dx6t4KoFrLVR9bW8s8Xxp3rYMI4pfDpjt8Uy~Jx9xLwfRBpTiCbdc4DKKuOXPkcVOQIfDDC5vGGcftHeXKOQDiifacyldojtSX74jAQEC-lUeRXuBhpela5h5zeVFFI3aAp9VA3Mmg~ux2EI-EtiykZtxk4J~aAICp-U5CRjqmvfyDOddCOkTyq9EY7-XUv65lX2l6EepXyl9KbeGSyA__);
+    z-index: -1;
+    background-size: cover;
+    background-position: center;
+}
